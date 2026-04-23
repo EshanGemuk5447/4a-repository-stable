@@ -1,0 +1,7 @@
+Origin: 4a Repository
+Label: 4a Repository
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: 4a APT Repository

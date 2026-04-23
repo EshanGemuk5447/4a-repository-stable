@@ -1,0 +1,7 @@
+Package: chrome-stable
+Version: 1.0
+Architecture: amd64
+Maintainer: 4a
+Filename: https://sourceforge.net/projects/repository-4a/files/google-chrome-stable_current_amd64.deb/download
+Size: 131380428
+Description: Chrome Stable from 4a-repository
