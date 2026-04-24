@@ -5,3 +5,11 @@ Maintainer: 4a
 Filename: https://sourceforge.net/projects/repository-4a/files/google-chrome-stable_current_amd64.deb/download
 Size: 131380428
 Description: Chrome Stable from 4a-repository
+
+Package: opera-browser
+Version: 1.0
+Architecture: amd64
+Maintainer: 4a
+Filename: https://sourceforge.net/projects/repository-4a/files/opera-stable_130.0.5847.82_amd64.deb/download
+Size: 134528236
+Description: Opera Browser from 4a-repository
